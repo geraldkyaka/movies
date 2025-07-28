@@ -1,4 +1,59 @@
-# movies
+# movies[Uplo{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f7e23464",
+   "metadata": {},
+   "source": [
+    "# microsoft movie program\n",
+    " * this presentation is to be able to help microsoft be able to create a good movie site for the use of the public. For that to be possible, microsoft needs to take several factors and learn from the past trends so as to help them be able to line up well with the current movie industry. They need to liase with the top studios which have produce the best movie hits consistently over the years. This will enable them to make a good foundation for their project hence ensuring profit in the future. Some of these studios include: \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "68586f21",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from PIL import Image\n",
+    "img = Image.open('walt disney.jpg')\n",
+    "img.show()\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "aae31474",
+   "metadata": {},
+   "source": [
+    "* walt disney has been known to produce consistent results over the years and also producing sequals which keeps the people captivated and waiting for more, eg.the starwars sequel. Having a partneship with walt disney will be a huge breakthrough for microsoft. Walt disney is also known for producing content suitable for all ages, meaning they have a greater field of viewers for their content."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "base",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+ading movie analysis.ipynb…]()
+
 # epilogue
 # data cleaning
 ## feature engineering
